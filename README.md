@@ -1,6 +1,10 @@
 # Project 1: The Brochure Site
 
-## Problem Statement
+## Learning Goals
+
+- Build a brochure site.
+
+## Introduction
 
 You've been learning HTML and CSS over the previous lessons. You've been
 receiving specific guidance ("Use a `<link>` tag!") and have been steered by
@@ -18,22 +22,18 @@ sites_ were the _only_ sites on the web. They were called _brochure sites_
 because, well, like _brochures_ they provided static text and images, contact
 information, a few divisions, and had a certain style.
 
-## Learning Objectives
-
-1. Build a brochure site
-
 ## Build a Brochure Site
 
 ### Requirements
 
 1. Your site must use HTML5 semantic elements for grouping content e.g.
-   `<header>`, `<article>`, and `<aside>`
-2. Your HTML must pass validation
-3. Your CSS must pass validation
+   `<header>`, `<article>`, and `<aside>`.
+2. Your HTML must pass validation.
+3. Your CSS must pass validation.
 4. Your site must use one of these layout: multicolumn with floats, `flexbox`,
    or CSS grid.
-5. You must include _at least_ 3 images
-6. Deploy your site to web hosting
+5. You must include _at least_ 3 images.
+6. Deploy your site to web hosting.
 7. Your site must be optimized for _at least_ 2 viewports (a full-screen device
    as well as a mobile device). _See below_
 
@@ -52,21 +52,24 @@ information they need.
 
 ### Not Specified
 
-1. **The subject matter**.
-   * A r&eacute;sum&eacute; or CV-like page with thumbnails of your work
-   * A fan page like "Why [Sachin Tendulkar][ST] is the Greatest Sportsman of 3 generations"
-   * A media preview page ("My list of [Phish][] Recordings with Audio Samples"). This
-2. **The Number of pages**. The goal of web design is to serve the content. If
-   multiple pages does this best, great. Google has become a multi-billion
-   dollar company with the most deceptively simple landing page in history.
-   Serve your page with user experience in mind.
+- **The subject matter**. This can be anything you like, but here are some ideas
+  to get you started:
+   - A r&eacute;sum&eacute; or CV-like page with thumbnails of your work.
+   - A fan page like "Why [Sachin Tendulkar][ST] is the Greatest Sportsman of 3
+     generations."
+   - A media preview page ("My list of [Phish][] Recordings with Audio
+     Samples").
+- **The Number of pages**. The goal of web design is to serve the content. If
+  multiple pages does this best, great. Google has become a multi-billion dollar
+  company with the most deceptively simple landing page in history. Serve your
+  page with user experience in mind.
 
 ### Completion and Moving On
 
 In this lab there's a file called "MY URL." You must place your URL inside this
 file. Afterward run `learn` and `learn submit`.
 
-### Conclusion
+## Conclusion
 
 In this lab you've reached a very important milestone: you've created a web
 page from scratch and deployed it on the internet. You are really a web
