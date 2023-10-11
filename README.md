@@ -7,15 +7,13 @@
 ## Introduction
 
 You've been learning HTML and CSS over the previous lessons. You've been
-receiving specific guidance ("Use a `<link>` tag!") and have been steered by
-our documentation or tests. In effort to help you build your confidence, we're
+receiving specific guidance ("Use a `<link>` tag!") and have been steered by our
+documentation or tests. In an effort to help you build your confidence, we're
 going to give you _nothing_ except some specifications and leave the document
 structure and styling _to you_.  It's time to tie all your learning together
-into one project. You must create....
+into one project. For this project, you will be creating a [brochure site][].
 
-![Alarmed kitten](https://media.giphy.com/media/11wjdvVFDf19cI/giphy.gif)
-
-..._a brochure site_!
+[brochure site]: https://blog.hubspot.com/website/brochure-website-examples
 
 When the first web sites started to appear in the mid-nineties, _brochure
 sites_ were the _only_ sites on the web. They were called _brochure sites_
@@ -30,7 +28,7 @@ information, a few divisions, and had a certain style.
    `<header>`, `<article>`, and `<aside>`.
 2. Your HTML must pass validation.
 3. Your CSS must pass validation.
-4. Your site must use one of these layout: multicolumn with floats, `flexbox`,
+4. Your site must use one of these layouts: multicolumn with floats, `flexbox`,
    or CSS grid.
 5. You must include _at least_ 3 images.
 6. Deploy your site to web hosting.
@@ -54,11 +52,11 @@ information they need.
 
 - **The subject matter**. This can be anything you like, but here are some ideas
   to get you started:
-   - A r&eacute;sum&eacute; or CV-like page with thumbnails of your work.
-   - A fan page like "Why [Sachin Tendulkar][ST] is the Greatest Sportsman of 3
-     generations."
-   - A media preview page ("My list of [Phish][] Recordings with Audio
-     Samples").
+  - A r&eacute;sum&eacute; or CV-like page with thumbnails of your work.
+  - A fan page like "Why [Sachin Tendulkar][ST] is the Greatest Sportsman of 3
+    generations."
+  - A media preview page ("My list of [Phish][] Recordings with Audio
+    Samples").
 - **The Number of pages**. The goal of web design is to serve the content. If
   multiple pages does this best, great. Google has become a multi-billion dollar
   company with the most deceptively simple landing page in history. Serve your
@@ -66,8 +64,9 @@ information they need.
 
 ### Completion and Moving On
 
-In this lab there's a file called "MY URL." You must place your URL inside this
-file. Afterward run `learn` and `learn submit`.
+In this lab there's a file called "my_url.txt". You must place your URL inside
+this file. Afterwards, make sure the tests are passing, then push your code up
+and submit the project using CodeGrade.
 
 ## Conclusion
 
