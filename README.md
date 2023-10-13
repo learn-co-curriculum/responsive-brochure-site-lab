@@ -64,9 +64,8 @@ information they need.
 
 ### Completion and Moving On
 
-In this lab there's a file called "my_url.txt". You must place your URL inside
-this file. Afterwards, make sure the tests are passing, then push your code up
-and submit the project using CodeGrade.
+To submit your project, click "Start Assignment" and enter the URL into the text
+box.
 
 ## Conclusion
 
