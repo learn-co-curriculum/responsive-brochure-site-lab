@@ -64,8 +64,8 @@ information they need.
 
 ### Completion and Moving On
 
-To submit your project, click "Start Assignment" and enter the URL into the text
-box.
+To submit your project, click "Start Assignment" and enter the URL to your
+brochure site hosted on GitHub Pages into the text box.
 
 ## Conclusion
 
